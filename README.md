@@ -25,21 +25,21 @@ This project explores AI usage patterns using survey data collected from multipl
 
 ## Dashboard Preview
 
-dashboard.png
+![Dashboard](dashboard.png)
 
 ## Project Workflow
 
 ### 1. Raw Dataset
-raw_data.png
+![Raw Dataset](raw_data.png)
 
 ### 2. Cleaned Dataset
-cleaned_data.png
+1[Cleaned Dataset](cleaned_data.png)
 
 ### 3. Pivot Table Analysis
-pivot_table.png
+![Pivot Table](pivot_table.png)
 
 ### 4. Final Dashboard
-dashboard.png
+![Final Dashboard](dashboard.png)
 
 ## Key Findings
 - Most respondents indicated positive experiences with AI tools.
