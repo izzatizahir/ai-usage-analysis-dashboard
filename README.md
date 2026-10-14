@@ -1,6 +1,5 @@
 # AI Usage Analysis Dashboard
 
-# AI Usage Analysis Dashboard
 This project explores AI usage patterns using survey data collected from multiple respondents. The analysis was performed in Microsoft Excel, focusing on data cleaning, data visualization, and dashboard creation.
 
 ## Objectives
@@ -31,16 +30,16 @@ dashboard.png
 ## Project Workflow
 
 ### 1. Raw Dataset
-raw_data.png
+![w_data.png
 
 ### 2. Cleaned Dataset
-cleaned_data.png
+![Clean_data.png
 
 ### 3. Pivot Table Analysis
 pivot_table.png
 
 ### 4. Final Dashboard
-dashboard.png
+!dashboard.png
 
 ## Key Findings
 - Most respondents indicated positive experiences with AI tools.
