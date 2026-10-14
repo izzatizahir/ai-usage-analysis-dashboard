@@ -33,7 +33,7 @@ This project explores AI usage patterns using survey data collected from multipl
 ![Raw Dataset](raw_data.png)
 
 ### 2. Cleaned Dataset
-1[Cleaned Dataset](cleaned_data.png)
+![Cleaned Dataset](cleaned_data.png)
 
 ### 3. Pivot Table Analysis
 ![Pivot Table](pivot_table.png)
