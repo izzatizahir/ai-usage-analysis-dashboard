@@ -30,16 +30,16 @@ dashboard.png
 ## Project Workflow
 
 ### 1. Raw Dataset
-![w_data.png
+raw_data.png
 
 ### 2. Cleaned Dataset
-![Clean_data.png
+cleaned_data.png
 
 ### 3. Pivot Table Analysis
 pivot_table.png
 
 ### 4. Final Dashboard
-!dashboard.png
+dashboard.png
 
 ## Key Findings
 - Most respondents indicated positive experiences with AI tools.
